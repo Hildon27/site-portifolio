@@ -1,0 +1,14 @@
+[
+    {
+      "titulo": "Inglês",
+      "experiencias": ["Curso de Ingles (CCAA) 2012-2018", "Cambridge PET English For Schools 2019", "Cambridge FCE English For Schools 2021"]
+    },
+    {
+      "titulo": "Cerficações de HTML/CSS pela Alura",
+      "experiencias": ["Classes, posicionamento e Flexbox", "Ambientes dedesenvolvimento, estrutura de arquivos e tags", "Cabeçalho, footer e variáveis CSS", "Trabalhando com responsividade e publicação de projetos"]
+    },
+    {
+      "titulo": "Projeto em Spring Boot",
+      "experiencias": ["Projeto desenvolvido na disciplina de Projeto de Software", "Padrao MVC", "Testes Automatizados"]
+      }
+  ]
